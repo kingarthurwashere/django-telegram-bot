@@ -24,7 +24,7 @@ Built-in Telegram bot methods:
 * `/stats` — show basic bot stats 
 * `/ask_for_location` — log user location when received and reverse geocode it to get country, city, etc.
 
-Check out our [Wiki](https://github.com/ohld/django-telegram-bot/wiki) for more info.
+Check out our [Wiki](https://github.com/kingarthurwashere/django-telegram-bot/wiki) for more info.
 
 # How to run
 
@@ -33,7 +33,7 @@ Check out our [Wiki](https://github.com/ohld/django-telegram-bot/wiki) for more 
 The fastest way to run the bot is to run it in polling mode using SQLite database without all Celery workers for background jobs. This should be enough for quickstart:
 
 ``` bash
-git clone https://github.com/ohld/django-telegram-bot
+git clone https://github.com/kingarthurwashere/django-telegram-bot
 cd django-telegram-bot
 ```
 
